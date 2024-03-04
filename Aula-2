@@ -1,0 +1,8 @@
+let name = "Daniel"
+let age = 40
+let language = "JavaScript"
+
+alert("Hello "+ name + " you has "+ age +" years old and is learning " + language);
+prompt("Do you like to study " + language + "? Answer with the number 1 to YES and 2 to NO");
+if(1){"Very nice! Keep learning and you will achieve the success."}
+if(2){'Oh what a shame...Did you tried another language?'};
